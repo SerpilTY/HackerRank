@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.exe
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.deps.json
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.dll
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.pdb
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.dll
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\refint\BirthdayCakeCandles.dll
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.pdb
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\BirthdayCakeCandles\obj\Debug\net6.0\ref\BirthdayCakeCandles.dll
