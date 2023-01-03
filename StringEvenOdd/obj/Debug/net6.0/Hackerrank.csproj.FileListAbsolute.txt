@@ -1,0 +1,15 @@
+C:\Users\HP\git\Pratikler\Hackerrank\bin\Debug\net6.0\Hackerrank.exe
+C:\Users\HP\git\Pratikler\Hackerrank\bin\Debug\net6.0\Hackerrank.deps.json
+C:\Users\HP\git\Pratikler\Hackerrank\bin\Debug\net6.0\Hackerrank.runtimeconfig.json
+C:\Users\HP\git\Pratikler\Hackerrank\bin\Debug\net6.0\Hackerrank.dll
+C:\Users\HP\git\Pratikler\Hackerrank\bin\Debug\net6.0\Hackerrank.pdb
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\Hackerrank.csproj.AssemblyReference.cache
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\Hackerrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\Hackerrank.AssemblyInfoInputs.cache
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\Hackerrank.AssemblyInfo.cs
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\Hackerrank.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\Hackerrank.dll
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\refint\Hackerrank.dll
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\Hackerrank.pdb
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\Hackerrank.genruntimeconfig.cache
+C:\Users\HP\git\Pratikler\Hackerrank\obj\Debug\net6.0\ref\Hackerrank.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\bin\Debug\net6.0\CompareTriplets.exe
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\bin\Debug\net6.0\CompareTriplets.deps.json
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\bin\Debug\net6.0\CompareTriplets.runtimeconfig.json
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\bin\Debug\net6.0\CompareTriplets.dll
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\bin\Debug\net6.0\CompareTriplets.pdb
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\CompareTriplets.csproj.AssemblyReference.cache
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\CompareTriplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\CompareTriplets.AssemblyInfoInputs.cache
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\CompareTriplets.AssemblyInfo.cs
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\CompareTriplets.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\CompareTriplets.dll
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\refint\CompareTriplets.dll
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\CompareTriplets.pdb
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\CompareTriplets.genruntimeconfig.cache
+C:\Users\HP\git\Pratikler\Hackerrank\CompareTriplets\obj\Debug\net6.0\ref\CompareTriplets.dll
