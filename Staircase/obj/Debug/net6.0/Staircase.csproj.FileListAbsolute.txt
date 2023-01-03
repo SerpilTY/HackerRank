@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\Staircase\bin\Debug\net6.0\Staircase.exe
+C:\Users\HP\git\Hackerrank\Staircase\bin\Debug\net6.0\Staircase.deps.json
+C:\Users\HP\git\Hackerrank\Staircase\bin\Debug\net6.0\Staircase.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\Staircase\bin\Debug\net6.0\Staircase.dll
+C:\Users\HP\git\Hackerrank\Staircase\bin\Debug\net6.0\Staircase.pdb
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\Staircase.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\Staircase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\Staircase.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\Staircase.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\Staircase.dll
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\refint\Staircase.dll
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\Staircase.pdb
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\Staircase.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\Staircase\obj\Debug\net6.0\ref\Staircase.dll
