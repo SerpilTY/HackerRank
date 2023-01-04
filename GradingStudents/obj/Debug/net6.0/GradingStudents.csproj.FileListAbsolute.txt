@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\GradingStudents\bin\Debug\net6.0\GradingStudents.exe
+C:\Users\HP\git\Hackerrank\GradingStudents\bin\Debug\net6.0\GradingStudents.deps.json
+C:\Users\HP\git\Hackerrank\GradingStudents\bin\Debug\net6.0\GradingStudents.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\GradingStudents\bin\Debug\net6.0\GradingStudents.dll
+C:\Users\HP\git\Hackerrank\GradingStudents\bin\Debug\net6.0\GradingStudents.pdb
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\GradingStudents.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\GradingStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\GradingStudents.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\GradingStudents.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\GradingStudents.dll
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\refint\GradingStudents.dll
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\GradingStudents.pdb
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\GradingStudents.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\GradingStudents\obj\Debug\net6.0\ref\GradingStudents.dll
