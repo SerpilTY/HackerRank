@@ -25,13 +25,13 @@ class Result
     public static int birthdayCakeCandles(List<int> candles)
     {
         candles.Sort();
-        int index=0;
+        int index = 0;
         foreach (var item in candles)
         {
-            if(item==candles[candles.Count-1] )
-            index=(candles.IndexOf(item));  
+            if (item == candles[candles.Count - 1])
+                index = (candles.IndexOf(item));
         }
-return ((candles.Count)-index);
+        return ((candles.Count) - index);
     }
 
 }
@@ -40,12 +40,12 @@ class Solution
 {
     public static void Main(string[] args)
     {
-       
 
-        
 
-        List<int> candles = new List<int>{3,2,1,3};
-        
+
+
+        List<int> candles = new List<int> { 3, 2, 1, 3 };
+
 
         int result = Result.birthdayCakeCandles(candles);
 
