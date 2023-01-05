@@ -39,7 +39,12 @@ class Result
         {
             //v2 > v1
             var numberOfJumps = ((double)(x1 - x2)) / (v2 - v1);
-            if (numberOfJumps % 1 == 0)
+            /*
+             Look the Solution how to formulaze that: Number of jumps can be obtained by using the formula (x1 - x2) / (v2 - v1). But how? Whether the same location will occur not, we dont know the specific number after how much jump , let call it k; it must be an integer for an exact location, fraction means fail.
+                   x1 + k*v1 == x2 + k*v2
+             So => k=x1-x2/v2-v1
+            */
+            if (numberOfJumps % 1  == 0)
                 result = "YES";
             else
                 result = "NO";
