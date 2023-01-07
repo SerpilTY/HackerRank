@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\StringToInteger\bin\Debug\net6.0\StringToInteger.exe
+C:\Users\HP\git\Hackerrank\StringToInteger\bin\Debug\net6.0\StringToInteger.deps.json
+C:\Users\HP\git\Hackerrank\StringToInteger\bin\Debug\net6.0\StringToInteger.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\StringToInteger\bin\Debug\net6.0\StringToInteger.dll
+C:\Users\HP\git\Hackerrank\StringToInteger\bin\Debug\net6.0\StringToInteger.pdb
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\StringToInteger.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\StringToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\StringToInteger.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\StringToInteger.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\StringToInteger.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\StringToInteger.dll
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\refint\StringToInteger.dll
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\StringToInteger.pdb
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\StringToInteger.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\StringToInteger\obj\Debug\net6.0\ref\StringToInteger.dll
