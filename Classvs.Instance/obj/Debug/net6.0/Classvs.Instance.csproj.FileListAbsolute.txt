@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\Classvs.Instance\bin\Debug\net6.0\Classvs.Instance.exe
+C:\Users\HP\git\Hackerrank\Classvs.Instance\bin\Debug\net6.0\Classvs.Instance.deps.json
+C:\Users\HP\git\Hackerrank\Classvs.Instance\bin\Debug\net6.0\Classvs.Instance.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\Classvs.Instance\bin\Debug\net6.0\Classvs.Instance.dll
+C:\Users\HP\git\Hackerrank\Classvs.Instance\bin\Debug\net6.0\Classvs.Instance.pdb
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\Classvs.Instance.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\Classvs.Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\Classvs.Instance.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\Classvs.Instance.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\Classvs.Instance.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\Classvs.Instance.dll
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\refint\Classvs.Instance.dll
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\Classvs.Instance.pdb
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\Classvs.Instance.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\Classvs.Instance\obj\Debug\net6.0\ref\Classvs.Instance.dll
