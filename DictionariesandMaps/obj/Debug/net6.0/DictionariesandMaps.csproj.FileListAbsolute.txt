@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\bin\Debug\net6.0\DictionariesandMaps.exe
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\bin\Debug\net6.0\DictionariesandMaps.deps.json
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\bin\Debug\net6.0\DictionariesandMaps.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\bin\Debug\net6.0\DictionariesandMaps.dll
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\bin\Debug\net6.0\DictionariesandMaps.pdb
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\DictionariesandMaps.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\DictionariesandMaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\DictionariesandMaps.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\DictionariesandMaps.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\DictionariesandMaps.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\DictionariesandMaps.dll
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\refint\DictionariesandMaps.dll
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\DictionariesandMaps.pdb
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\DictionariesandMaps.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\DictionariesandMaps\obj\Debug\net6.0\ref\DictionariesandMaps.dll
