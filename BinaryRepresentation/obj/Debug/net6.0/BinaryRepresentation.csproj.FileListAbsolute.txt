@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\bin\Debug\net6.0\BinaryRepresentation.exe
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\bin\Debug\net6.0\BinaryRepresentation.deps.json
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\bin\Debug\net6.0\BinaryRepresentation.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\bin\Debug\net6.0\BinaryRepresentation.dll
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\bin\Debug\net6.0\BinaryRepresentation.pdb
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.dll
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\refint\BinaryRepresentation.dll
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.pdb
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\BinaryRepresentation\obj\Debug\net6.0\ref\BinaryRepresentation.dll
