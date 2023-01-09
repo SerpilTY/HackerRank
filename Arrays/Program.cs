@@ -22,25 +22,9 @@ class Solution
 
         List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
 
-        List<int> firstSide = new List<int>();
-
-        for (int i = arr.Count - 1; i >= 0; i--)
+            arr.Reverse();
+        foreach (var item in arr)
         {
-            firstSide.Add(arr[i]);
+            System.Console.Write($"{item} ");
         }
-
-        List<int> lastSide = new List<int>();
-        for (int i = arr.Count - 1; i > arr.Count - 1 / 2; i--)
-        {
-            lastSide.Add(arr[i]);
-        }
-
-        lastSide.AddRange(firstSide);
-
-        foreach (var item in lastSide)
-        {
-            System.Console.Write(item + " ");
-        }
-    }
-}
-
+} }
