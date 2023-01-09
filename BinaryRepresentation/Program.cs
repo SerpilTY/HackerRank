@@ -1,69 +1,40 @@
-﻿using System.CodeDom.Compiler;
+﻿using System;
 using System.Collections.Generic;
-using System.Collections;
-using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Reflection;
-using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-using System.Text;
-using System;
-
-
 
 class Solution
 {
-    public static void Main(string[] args)
+
+    static void Main(String[] args)
     {
-        int n = Convert.ToInt32(Console.ReadLine().Trim());
-List<int> binary=new List<int>();
 
-for (int i = n; i >1; i=i/2)
-{
-    binary.Add(i%2);
-    if(i==2)binary.Add(1);
-    if(i==3) binary.Add(1);
-    System.Console.WriteLine( "i= "+i);
-}
-binary.Reverse();
-foreach (var item in binary)
+        int n = Convert.ToInt32(Console.ReadLine());
+        string binary = Convert.ToString(n, 2);
+
+        string[] ones = binary.Split('0');
+
+        int sum = 0;
+        int sumMax = 0;
+
+        foreach (string o in ones)
         {
-            System.Console.Write($"{item}");
-           
-        }; 
-         System.Console.WriteLine("");
-binary.ToString();
-         foreach (var item in binary)
-        {
-            System.Console.Write($"{item}");
-           
-        }; 
- System.Console.WriteLine("");
-       
 
-        
-
-     /* 
-        if(temp>count)System.Console.WriteLine(temp);
-        else System.Console.WriteLine(count); */
-
-        List<char> ones=new List<char>();
-string bino=binary.ToString();
-List<int> count=new List<int>();
-        for (var i = 0; i < bino.Count(); i++)
-        {
-            if(bino[i]==bino[i+1] && bino[i]==1){
-                ones.Add(bino[i]);
-                ones.Add(bino[i+1]);
-                if(bino[i]==0)
-                count.Add(ones.Count);
-                ones.Clear();
+            for (int i = 0; i < o.Length; i++)
+            {
+                if (o[i] == '1')
+                {
+                    sum++;
+                }
             }
+
+            if (sumMax >= sum)
+                sumMax = sumMax;
+            else sumMax = sum;
+            sum = 0;
+
         }
-        count.Sort();
-        System.Console.WriteLine(count[count.Count-1]);
+
+        Console.WriteLine(sumMax);
     }
 }
