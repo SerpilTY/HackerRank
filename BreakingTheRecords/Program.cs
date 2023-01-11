@@ -24,38 +24,34 @@ class Result
 
     public static List<int> breakingRecords(List<int> scores)
     {
-        List<int> breakinghighNum=new List<int>();
-        List<int> breakingsmallNum=new List<int>();
-        int biggest=0;  int smallest=0;
+        List<int> breakinghighNum = new List<int>();
+        List<int> breakingsmallNum = new List<int>();
+        int biggest = 0; int smallest = 0;
         breakinghighNum.Add(scores[0]);
         breakingsmallNum.Add(scores[0]);
-        /* breakinghighNum.Add(max);
-        breakingsmallNum.Add(min); */
 
-       
-        for (int i = 0; i < scores.Count-1; i++)
+
+        for (int i = 0; i < scores.Count - 1; i++)
         {
-            
-            if(scores[i]<scores[i+1] && scores[i+1]> breakinghighNum.Max() ){
-            biggest=scores[i+1];
-            breakinghighNum.Add(biggest);
-            System.Console.WriteLine("biggest= "+biggest);
+
+            if (scores[i] < scores[i + 1] && scores[i + 1] > breakinghighNum.Max())
+            {
+                biggest = scores[i + 1];
+                breakinghighNum.Add(biggest);
+                System.Console.WriteLine("biggest= " + biggest);
             }
-          
+             if (scores[i + 1] < scores[i] && scores[i + 1] < breakingsmallNum.Min())
+            {
+                smallest = scores[i + 1];
+                breakingsmallNum.Add(smallest);
+                System.Console.WriteLine("smallest= " + smallest);
+            }
         }
 
-        for (int i = 0; i < scores.Count-1; i++)
-        {
-             
-            if(scores[i+1]<scores[i] && scores[i+1]<breakingsmallNum.Min())
-            {smallest=scores[i+1];
-            breakingsmallNum.Add(smallest);
-            System.Console.WriteLine("smallest= "+smallest);}
-        }
 
-List<int> result=new List<int>();
-        result.Add(breakinghighNum.Count-1); 
-        result.Add(breakingsmallNum.Count-1);
+        List<int> result = new List<int>();
+        result.Add(breakinghighNum.Count - 1);
+        result.Add(breakingsmallNum.Count - 1);
         return result;
     }
 
@@ -65,7 +61,7 @@ class Solution
 {
     public static void Main(string[] args)
     {
-        
+
 
         int n = Convert.ToInt32(Console.ReadLine().Trim());
 
@@ -73,9 +69,9 @@ class Solution
 
         List<int> result = Result.breakingRecords(scores);
 
-foreach (var item in result)
-{
-    System.Console.WriteLine(item);
-}
+        foreach (var item in result)
+        {
+            System.Console.WriteLine(item);
+        }
     }
 }
