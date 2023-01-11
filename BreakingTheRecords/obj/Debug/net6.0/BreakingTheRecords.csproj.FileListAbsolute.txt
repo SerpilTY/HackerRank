@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\bin\Debug\net6.0\BreakingTheRecords.exe
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\bin\Debug\net6.0\BreakingTheRecords.deps.json
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\bin\Debug\net6.0\BreakingTheRecords.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\bin\Debug\net6.0\BreakingTheRecords.dll
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\bin\Debug\net6.0\BreakingTheRecords.pdb
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\BreakingTheRecords.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\BreakingTheRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\BreakingTheRecords.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\BreakingTheRecords.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\BreakingTheRecords.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\BreakingTheRecords.dll
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\refint\BreakingTheRecords.dll
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\BreakingTheRecords.pdb
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\BreakingTheRecords.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\BreakingTheRecords\obj\Debug\net6.0\ref\BreakingTheRecords.dll
