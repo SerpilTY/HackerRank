@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.exe
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.deps.json
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.dll
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.pdb
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.dll
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\refint\DivisibleSumPairs.dll
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.pdb
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\DivisibleSumPairs\obj\Debug\net6.0\ref\DivisibleSumPairs.dll
