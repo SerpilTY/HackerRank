@@ -12,45 +12,37 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
+
+
 class Result
 {
+
     /*
-     * Complete the 'divisibleSumPairs' function below.
+     * Complete the 'fizzBuzz' function below.
      *
-     * The function is expected to return an INTEGER.
-     * The function accepts following parameters:
-     *  1. INTEGER n
-     *  2. INTEGER k
-     *  3. INTEGER_ARRAY ar
+     * The function accepts INTEGER n as parameter.
      */
 
-    public static int divisibleSumPairs(int n, int k, List<int> ar)
+    public static void fizzBuzz(int n)
     {
-        int result = 0;
-        for (int i = 0; i < ar.Count; i++)
+        for (var i = 1; i <= n; i++)
         {
-            for (var j = i + 1; j < ar.Count; j++)
-            {
-                if ((ar[i] + ar[j]) % k == 0) { result++; }
+        if(i%3==0 && i%5==0)System.Console.WriteLine("FizzBuzz");
+        else if(i%3==0) System.Console.WriteLine("Fizz");
+        else if(i%5==0) System.Console.WriteLine("Buzz");
+        else System.Console.WriteLine(i);
 
-            } }
-        return result;
-    } }
+    }
+
+}
+
 class Solution
 {
     public static void Main(string[] args)
     {
+        int n = Convert.ToInt32(Console.ReadLine().Trim());
 
-        int n = Convert.ToInt32(Console.ReadLine());
-
-        int k = Convert.ToInt32(Console.ReadLine());
-
-        List<int> ar = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arTemp => Convert.ToInt32(arTemp)).ToList();
-
-        int result = Result.divisibleSumPairs(n, k, ar);
-
-        Console.WriteLine(result);
-
+        Result.fizzBuzz(n);
     }
 }
-
+}

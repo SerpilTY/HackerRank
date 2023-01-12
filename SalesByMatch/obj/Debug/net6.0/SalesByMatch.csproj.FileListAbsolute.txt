@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\SalesByMatch\bin\Debug\net6.0\SalesByMatch.exe
+C:\Users\HP\git\Hackerrank\SalesByMatch\bin\Debug\net6.0\SalesByMatch.deps.json
+C:\Users\HP\git\Hackerrank\SalesByMatch\bin\Debug\net6.0\SalesByMatch.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\SalesByMatch\bin\Debug\net6.0\SalesByMatch.dll
+C:\Users\HP\git\Hackerrank\SalesByMatch\bin\Debug\net6.0\SalesByMatch.pdb
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\SalesByMatch.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\SalesByMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\SalesByMatch.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\SalesByMatch.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\SalesByMatch.dll
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\refint\SalesByMatch.dll
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\SalesByMatch.pdb
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\SalesByMatch.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\SalesByMatch\obj\Debug\net6.0\ref\SalesByMatch.dll
