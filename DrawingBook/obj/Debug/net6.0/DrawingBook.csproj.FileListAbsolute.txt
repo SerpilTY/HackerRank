@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\DrawingBook\bin\Debug\net6.0\DrawingBook.exe
+C:\Users\HP\git\Hackerrank\DrawingBook\bin\Debug\net6.0\DrawingBook.deps.json
+C:\Users\HP\git\Hackerrank\DrawingBook\bin\Debug\net6.0\DrawingBook.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\DrawingBook\bin\Debug\net6.0\DrawingBook.dll
+C:\Users\HP\git\Hackerrank\DrawingBook\bin\Debug\net6.0\DrawingBook.pdb
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\DrawingBook.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\DrawingBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\DrawingBook.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\DrawingBook.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\DrawingBook.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\DrawingBook.dll
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\refint\DrawingBook.dll
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\DrawingBook.pdb
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\DrawingBook.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\DrawingBook\obj\Debug\net6.0\ref\DrawingBook.dll
