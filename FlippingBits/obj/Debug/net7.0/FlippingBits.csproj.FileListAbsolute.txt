@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\FlippingBits\bin\Debug\net7.0\FlippingBits.exe
+C:\Users\HP\git\Hackerrank\FlippingBits\bin\Debug\net7.0\FlippingBits.deps.json
+C:\Users\HP\git\Hackerrank\FlippingBits\bin\Debug\net7.0\FlippingBits.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\FlippingBits\bin\Debug\net7.0\FlippingBits.dll
+C:\Users\HP\git\Hackerrank\FlippingBits\bin\Debug\net7.0\FlippingBits.pdb
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\FlippingBits.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\FlippingBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\FlippingBits.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\FlippingBits.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\FlippingBits.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\FlippingBits.dll
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\refint\FlippingBits.dll
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\FlippingBits.pdb
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\FlippingBits.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\FlippingBits\obj\Debug\net7.0\ref\FlippingBits.dll
