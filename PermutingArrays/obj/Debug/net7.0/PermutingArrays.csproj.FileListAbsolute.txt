@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\PermutingArrays\bin\Debug\net7.0\PermutingArrays.exe
+C:\Users\HP\git\Hackerrank\PermutingArrays\bin\Debug\net7.0\PermutingArrays.deps.json
+C:\Users\HP\git\Hackerrank\PermutingArrays\bin\Debug\net7.0\PermutingArrays.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\PermutingArrays\bin\Debug\net7.0\PermutingArrays.dll
+C:\Users\HP\git\Hackerrank\PermutingArrays\bin\Debug\net7.0\PermutingArrays.pdb
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\PermutingArrays.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\PermutingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\PermutingArrays.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\PermutingArrays.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\PermutingArrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\PermutingArrays.dll
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\refint\PermutingArrays.dll
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\PermutingArrays.pdb
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\PermutingArrays.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\PermutingArrays\obj\Debug\net7.0\ref\PermutingArrays.dll
