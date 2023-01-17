@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\XORStrings\bin\Debug\net7.0\XORStrings.exe
+C:\Users\HP\git\Hackerrank\XORStrings\bin\Debug\net7.0\XORStrings.deps.json
+C:\Users\HP\git\Hackerrank\XORStrings\bin\Debug\net7.0\XORStrings.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\XORStrings\bin\Debug\net7.0\XORStrings.dll
+C:\Users\HP\git\Hackerrank\XORStrings\bin\Debug\net7.0\XORStrings.pdb
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\XORStrings.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\XORStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\XORStrings.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\XORStrings.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\XORStrings.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\XORStrings.dll
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\refint\XORStrings.dll
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\XORStrings.pdb
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\XORStrings.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\XORStrings\obj\Debug\net7.0\ref\XORStrings.dll
