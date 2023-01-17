@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\SparseArrays\bin\Debug\net7.0\SparseArrays.exe
+C:\Users\HP\git\Hackerrank\SparseArrays\bin\Debug\net7.0\SparseArrays.deps.json
+C:\Users\HP\git\Hackerrank\SparseArrays\bin\Debug\net7.0\SparseArrays.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\SparseArrays\bin\Debug\net7.0\SparseArrays.dll
+C:\Users\HP\git\Hackerrank\SparseArrays\bin\Debug\net7.0\SparseArrays.pdb
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\SparseArrays.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\SparseArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\SparseArrays.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\SparseArrays.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\SparseArrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\SparseArrays.dll
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\refint\SparseArrays.dll
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\SparseArrays.pdb
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\SparseArrays.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\SparseArrays\obj\Debug\net7.0\ref\SparseArrays.dll
