@@ -44,10 +44,8 @@ class Result
                    x1 + k*v1 == x2 + k*v2
              So => k=x1-x2/v2-v1
             */
-            if (numberOfJumps % 1  == 0)
-                result = "YES";
-            else
-                result = "NO";
+         
+            result= numberOfJumps % 1  == 0 ? "YES" : "NO";
         }
         else
         {
