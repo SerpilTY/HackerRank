@@ -26,47 +26,37 @@ class Result
 
     public static int superDigit(string n, int k)
     {
-       // var x = new System.Text.StringBuilder().Insert(0, n, k).ToString();
+        long sum = 0;
+        List<long> numbers = new List<long>();
 
-        int sum = 0;
-        List<int> numbers = new List<int>();
-        List<char> numberss = n.ToCharArray().ToList();
+        numbers = n.Select(digit => long.Parse(digit.ToString())).ToList();
 
-        if (numberss.Count == 1) sum = numberss[0] - '0';
+        if (numbers.Count == 1) sum = numbers[0];
 
         else
         {
-            for (var i = 0; i < numberss.Count; i++)
+            for (var i = 0; i < numbers.Count; i++)
             {
-                numbers.Add(Convert.ToInt32((numberss[i]) - '0'));
                 sum += numbers[i];
             }
-            sum=sum*k;
+            sum = sum * k;
+            while (numbers.Count >= 1)
+            {
 
-            while (numbers.Count >= 1){
-
-                numberss.Clear();
                 numbers.Clear();
-
-                for (var j = 0; j < sum.ToString().Length; j++)
-                {
-                    numberss.Add((sum.ToString())[j]);
-                }
+                numbers = sum.ToString().Select(digit => long.Parse(digit.ToString())).ToList();
                 sum = 0;
-                for (var l = 0; l < numberss.Count; l++)
+                for (var l = 0; l < numbers.Count; l++)
                 {
-                    numbers.Add((numberss[l]) - '0');
                     sum += numbers[l];
                 }
 
                 if (sum.ToString().Length == 1) break;
             }
         }
-        return sum;
+        return Convert.ToInt32(sum);
     }
 }
-
-
 class Solution
 {
     public static void Main(string[] args)
