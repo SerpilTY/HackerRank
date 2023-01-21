@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\bin\Debug\net7.0\RecursiveDigitSum.exe
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\bin\Debug\net7.0\RecursiveDigitSum.deps.json
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\bin\Debug\net7.0\RecursiveDigitSum.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\bin\Debug\net7.0\RecursiveDigitSum.dll
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\bin\Debug\net7.0\RecursiveDigitSum.pdb
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\RecursiveDigitSum.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\RecursiveDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\RecursiveDigitSum.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\RecursiveDigitSum.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\RecursiveDigitSum.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\RecursiveDigitSum.dll
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\refint\RecursiveDigitSum.dll
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\RecursiveDigitSum.pdb
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\RecursiveDigitSum.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\RecursiveDigitSum\obj\Debug\net7.0\ref\RecursiveDigitSum.dll
