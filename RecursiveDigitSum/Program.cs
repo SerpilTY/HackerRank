@@ -42,21 +42,17 @@ class Result
             sum = sum * k;
             while (numbers.Count >= 1)
             {
-
                 numbers.Clear();
                 numbers = sum.ToString().Select(digit => long.Parse(digit.ToString())).ToList();
                 sum = 0;
                 for (var l = 0; l < numbers.Count; l++)
                 {
-                    sum += numbers[l];
-                }
+                    sum += numbers[l]; }
 
                 if (sum.ToString().Length == 1) break;
-            }
-        }
+            } }
         return Convert.ToInt32(sum);
-    }
-}
+    } }
 class Solution
 {
     public static void Main(string[] args)

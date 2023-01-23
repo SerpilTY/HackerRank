@@ -1,0 +1,15 @@
+C:\Users\HP\git\SubarrayDivision1\bin\Debug\net7.0\SubarrayDivision1.exe
+C:\Users\HP\git\SubarrayDivision1\bin\Debug\net7.0\SubarrayDivision1.deps.json
+C:\Users\HP\git\SubarrayDivision1\bin\Debug\net7.0\SubarrayDivision1.runtimeconfig.json
+C:\Users\HP\git\SubarrayDivision1\bin\Debug\net7.0\SubarrayDivision1.dll
+C:\Users\HP\git\SubarrayDivision1\bin\Debug\net7.0\SubarrayDivision1.pdb
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\SubarrayDivision1.csproj.AssemblyReference.cache
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\SubarrayDivision1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\SubarrayDivision1.AssemblyInfoInputs.cache
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\SubarrayDivision1.AssemblyInfo.cs
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\SubarrayDivision1.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\SubarrayDivision1.dll
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\refint\SubarrayDivision1.dll
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\SubarrayDivision1.pdb
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\SubarrayDivision1.genruntimeconfig.cache
+C:\Users\HP\git\SubarrayDivision1\obj\Debug\net7.0\ref\SubarrayDivision1.dll
