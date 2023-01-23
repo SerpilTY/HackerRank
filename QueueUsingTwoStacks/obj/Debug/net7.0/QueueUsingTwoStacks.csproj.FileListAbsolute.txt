@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.exe
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.deps.json
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.dll
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.pdb
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.dll
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\refint\QueueUsingTwoStacks.dll
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.pdb
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\QueueUsingTwoStacks\obj\Debug\net7.0\ref\QueueUsingTwoStacks.dll
