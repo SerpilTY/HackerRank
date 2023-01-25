@@ -1,0 +1,30 @@
+C:\Users\HP\git\Hackerrank\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.exe
+C:\Users\HP\git\Hackerrank\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.deps.json
+C:\Users\HP\git\Hackerrank\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.dll
+C:\Users\HP\git\Hackerrank\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.pdb
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.dll
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\refint\BalancedBrackets.dll
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.pdb
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\BalancedBrackets\obj\Debug\net7.0\ref\BalancedBrackets.dll
+C:\Users\HP\git\Working On It\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.exe
+C:\Users\HP\git\Working On It\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.deps.json
+C:\Users\HP\git\Working On It\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.runtimeconfig.json
+C:\Users\HP\git\Working On It\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.dll
+C:\Users\HP\git\Working On It\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.pdb
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.csproj.AssemblyReference.cache
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.AssemblyInfo.cs
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.dll
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\refint\BalancedBrackets.dll
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.pdb
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.genruntimeconfig.cache
+C:\Users\HP\git\Working On It\BalancedBrackets\obj\Debug\net7.0\ref\BalancedBrackets.dll
