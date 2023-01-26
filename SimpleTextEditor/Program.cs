@@ -6,8 +6,6 @@ using System.Collections.Generic;
 using System.IO;
 class Solution
 {
-
-
     static void Main(String[] args)
     {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
@@ -24,7 +22,6 @@ class Solution
             string choice = Console.ReadLine();
             int queryNumber = Convert.ToInt32(choice.Split(' ')[0]);
 
-
             if (queryNumber == 1)
             {
                 S += choice.Split(' ')[1];
@@ -37,10 +34,10 @@ class Solution
                 removedOnes.Add(S.Substring(S.Length - a).ToList());
                 S = S.Remove(S.Length - a, a);
                 queryNumbers.Add(queryNumber);
-
             }
             if (queryNumber == 3)
-            {
+            {   
+                queryNumbers.Add(queryNumber);
                 int index = (Convert.ToInt32((choice.Split(' ')[1]))) - 1;
                 if (index <= S.Length - 1)
                 {
@@ -54,8 +51,8 @@ class Solution
                 queryNumbers.Add(queryNumber);
                 foreach (var item in queryNumbers)
                 {
-                    if (item == 4) sequence += sequence;
-                    System.Console.WriteLine("sequence= " + sequence);
+                    if (item == 4) {sequence= sequence+1;
+                    System.Console.WriteLine("sequence= " + sequence);}
 
                 }
 
@@ -74,6 +71,11 @@ class Solution
                     string myStr = new string(removedOnes.Last().ToArray());
                     S += myStr;
                     System.Console.WriteLine(S + "S: 4-2 SONRASI");
+                }
+                else if
+                 (queryNumbers[(queryNumbers.Count) - sequence] == 3)
+                {
+                    sequence++;
                 }
             }
         }
