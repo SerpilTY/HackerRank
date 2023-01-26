@@ -1,0 +1,30 @@
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.exe
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.deps.json
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.dll
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.pdb
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.dll
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\refint\SimpleTextEditor.dll
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.pdb
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\SimpleTextEditor\obj\Debug\net7.0\ref\SimpleTextEditor.dll
+C:\Users\HP\git\Working On It\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.exe
+C:\Users\HP\git\Working On It\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.deps.json
+C:\Users\HP\git\Working On It\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\HP\git\Working On It\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.dll
+C:\Users\HP\git\Working On It\SimpleTextEditor\bin\Debug\net7.0\SimpleTextEditor.pdb
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.dll
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\refint\SimpleTextEditor.dll
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.pdb
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\SimpleTextEditor.genruntimeconfig.cache
+C:\Users\HP\git\Working On It\SimpleTextEditor\obj\Debug\net7.0\ref\SimpleTextEditor.dll
