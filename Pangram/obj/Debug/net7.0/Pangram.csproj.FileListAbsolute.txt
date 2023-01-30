@@ -1,0 +1,15 @@
+C:\Users\HP\git\Hackerrank\Pangram\bin\Debug\net7.0\Pangram.exe
+C:\Users\HP\git\Hackerrank\Pangram\bin\Debug\net7.0\Pangram.deps.json
+C:\Users\HP\git\Hackerrank\Pangram\bin\Debug\net7.0\Pangram.runtimeconfig.json
+C:\Users\HP\git\Hackerrank\Pangram\bin\Debug\net7.0\Pangram.dll
+C:\Users\HP\git\Hackerrank\Pangram\bin\Debug\net7.0\Pangram.pdb
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\Pangram.csproj.AssemblyReference.cache
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\Pangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\Pangram.AssemblyInfoInputs.cache
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\Pangram.AssemblyInfo.cs
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\Pangram.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\Pangram.dll
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\refint\Pangram.dll
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\Pangram.pdb
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\Pangram.genruntimeconfig.cache
+C:\Users\HP\git\Hackerrank\Pangram\obj\Debug\net7.0\ref\Pangram.dll
