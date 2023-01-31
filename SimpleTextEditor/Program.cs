@@ -8,16 +8,18 @@ class Solution
 {
     static void Main(String[] args)
     {
+
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
 
         string S = "";
+        
         int depth = Convert.ToInt32(Console.ReadLine());
         List<int> queryNumbers = new List<int>();
         List<List<char>> concatteds = new List<List<char>>();
         List<List<char>> removedOnes = new List<List<char>>();
 
 
-        for (int i = 1; i <= depth; i++)
+        for (int i = 1; i <=  depth; i++)
         {
             string choice = Console.ReadLine();
             int queryNumber = Convert.ToInt32(choice.Split(' ')[0]);
