@@ -29,6 +29,12 @@ class Result
 
         /* 07:05:45PM
         19:05:45 */
+
+        //DateTime Solution
+        DateTime time=Convert.ToDateTime(s);
+        System.Console.WriteLine(time.TimeOfDay);
+
+        //Manuel Solution
         List<string> sections = s.Split(":").ToList();
         int hour = Convert.ToInt32(sections[0]);
         List<char> characters = sections[2].ToCharArray().ToList();
@@ -61,9 +67,7 @@ class Solution
     public static void Main(string[] args)
     {
 
-        string s = "06:40:03AM";
+        string s = "07:05:45PM";
         System.Console.WriteLine(Result.timeConversion(s));
-
-
     }
 }
